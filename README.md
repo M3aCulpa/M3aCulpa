@@ -16,9 +16,9 @@ Red Team Security Engineer at Amazon Dedicated Cloud Security, leading offensive
 
 <br>
 
-![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)
-![Offensive Security](https://img.shields.io/badge/Offensive_Security-000000?style=for-the-badge&logoColor=white)
-![NYU](https://img.shields.io/badge/NYU-57068C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDkgLTQuOTFWMTdoMlY5TDEyIDN6Ii8+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxNi41NWwtNy0zLjgyVjE3YzAgMi4wNSAzLjE0IDQgNyA0czctMS45NSA3LTR2LTQuMjdsLTcgMy44MnoiLz48L3N2Zz4=&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Offensive Security](https://img.shields.io/badge/Offensive_Security-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggNHptMC0xNGMtMy4zMSAwLTYgMi42OS02IDZzMi42OSA2IDYgNiA2LTIuNjkgNi02LTIuNjktNi02LTZ6bTAgMTBjLTIuMjEgMC00LTEuNzktNC00czEuNzktNCA0LTQgNCAxLjc5IDQgNC0xLjc5IDQtNCA0em0wLTZjLTEuMSAwLTIgLjktMiAycy45IDIgMiAyIDItLjkgMi0yLS45LTItMi0yeiIvPjwvc3ZnPg==&logoColor=white)
+![NYU](https://img.shields.io/badge/New_York_University-57068C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDkgLTQuOTFWMTdoMlY5TDEyIDN6Ii8+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxNi41NWwtNy0zLjgyVjE3YzAgMi4wNSAzLjE0IDQgNyA0czctMS45NSA3LTR2LTQuMjdsLTcgMy44MnoiLz48L3N2Zz4=&logoColor=white)
 
 </div>
 
