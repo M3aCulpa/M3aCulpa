@@ -10,6 +10,8 @@
 
 </div>
 
+<div align="center">
+
 Offensive Security Engineer at Amazon building custom tooling for red team operations and adversary simulation. My work sits at the intersection of software engineering and offensive tradecraft — from covert C2 frameworks that blend into legitimate traffic, to payload obfuscation engines that challenge the assumptions of modern detection. I break things methodically so defenders can build back stronger.
 
 <br>
@@ -17,6 +19,8 @@ Offensive Security Engineer at Amazon building custom tooling for red team opera
 ![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)
 ![Offensive Security](https://img.shields.io/badge/Offensive_Security-000000?style=for-the-badge&logoColor=white)
 ![NYU](https://img.shields.io/badge/NYU-57068C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDkgLTQuOTFWMTdoMlY5TDEyIDN6Ii8+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxNi41NWwtNy0zLjgyVjE3YzAgMi4wNSAzLjE0IDQgNyA0czctMS45NSA3LTR2LTQuMjdsLTcgMy44MnoiLz48L3N2Zz4=&logoColor=white)
+
+</div>
 
 <br>
 
