@@ -12,7 +12,7 @@
 
 <div align="center">
 
-Offensive Security Engineer at Amazon building custom tooling for red team operations and adversary simulation. My work sits at the intersection of software engineering and offensive tradecraft — from covert C2 frameworks that blend into legitimate traffic, to payload obfuscation engines that challenge the assumptions of modern detection. I break things methodically so defenders can build back stronger.
+Red Team Senior Security Engineer at Amazon Dedicated Cloud Security, leading offensive campaigns, emergent threat testing, and automated threat emulation across cloud infrastructure. I build custom offensive tooling — covert C2 frameworks, payload obfuscation engines, and adversary simulation platforms — and translate findings into actionable defenses. My work spans penetration testing, red team operations, and mentoring the next generation of offensive security engineers.
 
 <br>
 
