@@ -15,24 +15,13 @@ Offensive Security Engineer at Amazon building custom tooling for red team opera
 <br>
 
 ![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)
-![Offensive Security](https://img.shields.io/badge/Offensive_Security-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxQzUuOTMgMSAxIDUuOTMgMSAxMnM0LjkzIDExIDExIDExIDExLTQuOTMgMTEtMTFTMTguMDcgMSAxMiAxem0wIDIwYy00Ljk3IDAtOS00LjAzLTktOXM0LjAzLTkgOS05IDkgNC4wMyA5IDktNC4wMyA5LTkgOXoiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDZjLTMuMzEgMC02IDIuNjktNiA2czIuNjkgNiA2IDYgNi0yLjY5IDYtNi0yLjY5LTYtNi02em0wIDEwYy0yLjIxIDAtNC0xLjc5LTQtNHMxLjc5LTQgNC00IDQgMS43OSA0IDQtMS43OSA0LTQgNHoiLz48L3N2Zz4=&logoColor=white)
+![Offensive Security](https://img.shields.io/badge/Offensive_Security-000000?style=for-the-badge&logoColor=white)
+![NYU](https://img.shields.io/badge/NYU-57068C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDkgLTQuOTFWMTdoMlY5TDEyIDN6Ii8+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxNi41NWwtNy0zLjgyVjE3YzAgMi4wNSAzLjE0IDQgNyA0czctMS45NSA3LTR2LTQuMjdsLTcgMy44MnoiLz48L3N2Zz4=&logoColor=white)
 
 <br>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=M3aCulpa&theme=radical&no-frame=true&no-bg=true&column=-1&margin-w=5&margin-h=5" alt="trophies"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=M3aCulpa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3131&icon_color=ff3131&text_color=c9d1d9&ring_color=ff3131&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=M3aCulpa&hide_border=true&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="streak"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3aCulpa&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3131&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=M3aCulpa&hide_border=true&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="streak"/>
 </div>
 
 <br>
@@ -115,46 +104,6 @@ Offensive Security Engineer at Amazon building custom tooling for red team opera
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
         <img src="https://img.shields.io/badge/-Shellcode-555555?style=flat-square" alt="Shellcode"/>
         <img src="https://img.shields.io/badge/-Obfuscation-8B0000?style=flat-square" alt="Obfuscation"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/Reference-FF3131?style=flat-square" alt="Reference"/>
-        ldapsearch BOF Cheatsheet
-      </h3>
-      <p align="center">
-        <a href="https://github.com/M3aCulpa/ldapsearch-bof-cheatsheet">
-          <img src="https://img.shields.io/badge/View_Repo-FF3131?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">
-        operational cheatsheet for trustedsec's ldapsearch beacon object file. quick reference for active directory enumeration during engagements.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-LDAP-003545?style=flat-square" alt="LDAP"/>
-        <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square" alt="AD"/>
-        <img src="https://img.shields.io/badge/-BOF-8B0000?style=flat-square" alt="BOF"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/Cert-FF3131?style=flat-square" alt="Cert"/>
-        OSEP Notes
-      </h3>
-      <p align="center">
-        <a href="https://github.com/M3aCulpa/OSEP-NOTES">
-          <img src="https://img.shields.io/badge/View_Repo-FF3131?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">
-        study notes and methodology for the offensive security experienced penetration tester (OSEP) certification. techniques, bypasses, and tradecraft.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-OffSec-8B0000?style=flat-square" alt="OffSec"/>
-        <img src="https://img.shields.io/badge/-OSEP-FF3131?style=flat-square" alt="OSEP"/>
-        <img src="https://img.shields.io/badge/-Tradecraft-555555?style=flat-square" alt="Tradecraft"/>
       </p>
     </td>
   </tr>
