@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff3131,100:0d1117&height=220&section=header&text=M3aCulpa&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=offensive%20security%20engineer%20%E2%80%A2%20red%20team%20%E2%80%A2%20amazon&descAlignY=55&descSize=18&descColor=ff6b6b" width="100%"/>
 
 <a href="https://github.com/M3aCulpa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=FF3131&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=%24+whoami+--+offensive+security+engineer+%40+amazon;%24+cat+%2Fetc%2Fmotd+--+building+tools+that+break+things;%24+uname+-a+--+go+%7C+c%2B%2B+%7C+python+%7C+nix;%24+uptime+--+red+team+operations+since+2018" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=FF3131&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=%24+whoami+--+offensive+security+engineer+%40+amazon;%24+cat+%2Fetc%2Fmotd+--+building+tools+that+break+things;%24+uname+-a+--+go+%7C+c%2B%2B+%7C+python+%7C+nix;%24+uptime+--+red+team+operations+since+2017" alt="Typing SVG" />
 </a>
 
 <br>
