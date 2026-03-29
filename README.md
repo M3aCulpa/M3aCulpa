@@ -25,7 +25,7 @@ Red Team Security Engineer at Amazon Dedicated Cloud Security, leading offensive
 <br>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=M3aCulpa&hide_border=true&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="streak"/>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=M3aCulpa&hide_border=true&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&v=2" alt="streak"/>
 </div>
 
 <br>
